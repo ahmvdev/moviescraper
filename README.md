@@ -1,1 +1,1 @@
-# moviescraper
+imdb top movie scraper script, change it to your preferences
